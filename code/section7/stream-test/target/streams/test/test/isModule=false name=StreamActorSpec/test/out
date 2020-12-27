@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mStreamActorSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mWith TestKit[0m[0m
+[0m[[0minfo[0m] [0m[32m- should test actor receive elements from the sink[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a control over a receiving elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a control over elements to be sent[0m[0m

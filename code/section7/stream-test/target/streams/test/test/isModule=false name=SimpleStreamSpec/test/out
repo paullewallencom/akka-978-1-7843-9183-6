@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mSimpleStreamSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mSimple Sink[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the correct results[0m[0m
+[0m[[0minfo[0m] [0m[32mSimple Source[0m[0m
+[0m[[0minfo[0m] [0m[32m- should contains a correct elements[0m[0m
+[0m[[0minfo[0m] [0m[32mSimple Flow[0m[0m
+[0m[[0minfo[0m] [0m[32m- should do right transformation[0m[0m

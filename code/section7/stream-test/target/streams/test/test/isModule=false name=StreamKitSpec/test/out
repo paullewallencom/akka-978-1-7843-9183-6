@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mStreamKitSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mWith Stream Test Kit[0m[0m
+[0m[[0minfo[0m] [0m[32m- should use a TestSink to test a source[0m[0m
+[0m[[0minfo[0m] [0m[32m- should use a TestSource to test a sink[0m[0m

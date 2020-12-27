@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32m* com.packt.akka.MultiNodeSample[0m[0m
+[0m[[0mdebug[0m] [0mStarting JVM-1 for com.packt.akka.MultiNodeSampleMultiJvmNode1[0m
+[0m[[0mdebug[0m] [0m  with JVM options: -Dmultinode.max-nodes=2 -Dmultinode.server-host=localhost -Dmultinode.host=localhost -Dmultinode.index=0[0m
+[0m[[0mdebug[0m] [0mStarting JVM-2 for com.packt.akka.MultiNodeSampleMultiJvmNode2[0m
+[0m[[0mdebug[0m] [0m  with JVM options: -Dmultinode.max-nodes=2 -Dmultinode.server-host=localhost -Dmultinode.host=localhost -Dmultinode.index=1[0m

@@ -1,0 +1,308 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/ReadStream$$anonfun$1.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/ReadStream$$anonfun$2.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/ReadStream$$anonfun$3.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/ReadStream$.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/ReadStream$delayedInit$body.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/ReadStream.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$1.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$2.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$3.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$4.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$5.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$6$$anonfun$apply$1.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$6.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$7.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$isPrime$1.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$delayedInit$body.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream.class
+binary dependencies:
+8 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> /Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> /Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> /Users/salmakhater/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> /Users/salmakhater/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> com.packt.akka.ReadStream
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> com.packt.akka.ReadStream$
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> com.packt.akka.ReadStream$$anonfun$1
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> com.packt.akka.ReadStream$$anonfun$2
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> com.packt.akka.ReadStream$$anonfun$3
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> com.packt.akka.ReadStream$delayedInit$body
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> com.packt.akka.WriteStream
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> com.packt.akka.WriteStream$
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> com.packt.akka.WriteStream$$anonfun$1
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> com.packt.akka.WriteStream$$anonfun$2
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> com.packt.akka.WriteStream$$anonfun$3
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> com.packt.akka.WriteStream$$anonfun$4
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> com.packt.akka.WriteStream$$anonfun$5
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> com.packt.akka.WriteStream$$anonfun$6
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> com.packt.akka.WriteStream$$anonfun$6$$anonfun$apply$1
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> com.packt.akka.WriteStream$$anonfun$7
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> com.packt.akka.WriteStream$$anonfun$isPrime$1
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> com.packt.akka.WriteStream$delayedInit$body
+used names:
+139 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> <init>
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> A1
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> ActorMaterializer
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> ActorSystem
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> App
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> B1
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> ByteString
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> Context
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> File
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> Framing
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> Function1
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> Implicits
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> Predef
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> ReadStream
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> Sink
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> Source
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> StatefulStage
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> SyncDirective
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> System
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> actor
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> actorSystem
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> akka
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> andThen
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> annotation
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> apply
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> asInstanceOf
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> awaitTermination
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> com
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> delimiter
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> dispatcher
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> flow
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> flowMaterializer
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> foreach
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> io
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> java
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> lang
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> lineSeparator
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> logFile
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> map
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> packt
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> println
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> qual$1
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> runWith
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> scala
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> scaladsl
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> shutdown
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> sink
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> source
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> stage
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> stream
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> synchronousFile
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> tailrec
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> unchecked
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> utf8String
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> util
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> via
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> x$2
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> x$3
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> %
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> -
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> <=
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> <init>
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> ==
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> ActorMaterializer
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> ActorSystem
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> App
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> Boolean
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> Broadcast
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> ByteString
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> Failure
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> File
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> Flow
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> FlowGraph
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> Implicits
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> Int
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> Predef
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> Sink
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> Source
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> StringContext
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> Success
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> ThreadLocalRandom
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> WriteStream
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> actor
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> actorSystem
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> add
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> akka
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> apply
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> asInstanceOf
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> broadCast
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> builder
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> bytesWritten
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> closed
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> com
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> concurrent
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> console
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> consoleSink
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> dispatcher
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> e
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> exception
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> exists
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> fanOut2flow
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> file
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> fileSink
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> filter
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> flowMaterializer
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> foreach
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> forkjoin
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> g
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> getMessage
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> i
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> intWrapper
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> io
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> isInstanceOf
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> isPrime
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> java
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> map
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> n
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> onComplete
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> packt
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> println
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> qual$1
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> run
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> s
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> scala
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> scaladsl
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> shutdown
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> sink
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> source
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> stream
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> synchronousFile
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> to
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> toMat
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> toString
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> unary_!
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> util
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> x
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> x$3
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> x$4
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> ~>
+product stamps:
+18 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/ReadStream$$anonfun$1.class -> lastModified(1451120314000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/ReadStream$$anonfun$2.class -> lastModified(1451120314000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/ReadStream$$anonfun$3.class -> lastModified(1451120314000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/ReadStream$.class -> lastModified(1451120314000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/ReadStream$delayedInit$body.class -> lastModified(1451120314000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/ReadStream.class -> lastModified(1451120313000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$1.class -> lastModified(1451119733000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$2.class -> lastModified(1451119733000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$3.class -> lastModified(1451119733000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$4.class -> lastModified(1451119733000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$5.class -> lastModified(1451119733000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$6$$anonfun$apply$1.class -> lastModified(1451119733000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$6.class -> lastModified(1451119733000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$7.class -> lastModified(1451119733000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$$anonfun$isPrime$1.class -> lastModified(1451119733000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$.class -> lastModified(1451119733000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream$delayedInit$body.class -> lastModified(1451119733000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes/com/packt/akka/WriteStream.class -> lastModified(1451119733000)
+source stamps:
+2 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> hash(7221d5e48e9ebed60727aba65ca92b6341396d3c)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> hash(f97c58eedab77ff27a2f69717cb43e88769ac382)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
+/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar -> lastModified(1436421519000)
+/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar -> lastModified(1436962828000)
+/Users/salmakhater/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar -> akka.actor.ActorSystem
+/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar -> akka.stream.stage.Context
+/Users/salmakhater/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.Serializable
+internal apis:
+2 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBpTXYeAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwmeIkRnQAEGZsb3dNYXRlcmlhbGl6ZXJzcQB+AAsnzV3ZdAALYWN0b3JTeXN0ZW11cQB+AAkAAAAcc3EAfgALNbNsV3QABm5vdGlmeXNxAH4AC3qE2pd0AAZzb3VyY2VzcQB+AAtsOsb+dAAEd2FpdHNxAH4ACzUCBU90AA0kYXNJbnN0YW5jZU9mc3EAfgALervSU3QABmVxdWFsc3NxAH4AC32tkNZ0AAxhc0luc3RhbmNlT2ZzcQB+AAvq2Hi3dAAOZXhlY3V0aW9uU3RhcnRzcQB+AAvTHltCdAAMc3luY2hyb25pemVkc3EAfgALtpHGAXQAB2xvZ0ZpbGVzcQB+AAtU9KePdAANJGlzSW5zdGFuY2VPZnNxAH4AC1d1FHp0AARtYWluc3EAfgALoyYk+nQACW5vdGlmeUFsbHNxAH4AC8ekJs90AAxpc0luc3RhbmNlT2ZzcQB+AAsguF2JdAAEc2lua3NxAH4ACxwON210AApSZWFkU3RyZWFtc3EAfgALLT7Wi3QAAj09c3EAfgALo8FTnXQABWNsb25lc3EAfgALvVL1NXQABGZsb3dzcQB+AAs+SdyldAAIdG9TdHJpbmdzcQB+AAvtM89HdAAEYXJnc3NxAH4ACw8DHOx0AAIhPXNxAH4AC+mxFm90AAhnZXRDbGFzc3NxAH4AC1RL4510AAJuZXNxAH4ACwvjcdp0AAJlcXNxAH4AC0ZQQHl0AAtkZWxheWVkSW5pdHNxAH4AC7bduNJ0AAIjI3NxAH4AC2X2QdN0AAhmaW5hbGl6ZXNxAH4AC9cuvht0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABljb20ucGFja3QuYWtrYS5SZWFkU3RyZWFtdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Abnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AbQBwc3EAfgByc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFNMAAlpbmhlcml0ZWRxAH4AU0wAB3BhcmVudHNxAH4AU3hxAH4AdnNxAH4AbQBwc3EAfgBydXEAfgBOAAAAAHNxAH4AbQBwc3EAfgBydXEAfgBOAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBUcQB+AF11cQB+AF4AAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCDeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHV0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnXNxAH4AYABxAH4AJ3VxAH4AYwAAAABzcQB+AJB0AARVbml0cQB+AJZ1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgCDeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBmdAAFUGxhaW5xAH4AOXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AkVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AdXNxAH4AkHQABUFycmF5cQB+AJZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AkHQABlN0cmluZ3NxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJx0AARqYXZhc3EAfgCcdAAEbGFuZ3EAfgChc3EAfgBtAHBzcQB+AHJ1cQB+ALgAAAAEc3EAfgCQdAADQXBwcQB+AJZzcQB+AJB0AAtEZWxheWVkSW5pdHEAfgCWc3EAfgCQdAAGT2JqZWN0cQB+ALxzcQB+AJB0AANBbnlxAH4AlnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACWNvbS5wYWNrdHNxAH4A0HQADmNvbS5wYWNrdC5ha2thc3EAfgDQdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFR3YKz4nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AGwvVXNlcnMvc2FsbWFraGF0ZXIvRG9jdW1lbnRzL0xlYXJuaW5nIEFra2EvQ291cnNlLVZlcnNpb24yL3NlY3Rpb243L2NvZGUvc3RyZWFtLWlvL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRyIdXkjp6+1gcnq6ZcqStjQTltPA==
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCLFLwBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxR7jgXQAEGZsb3dNYXRlcmlhbGl6ZXJzcQB+AAuvhlaAdAALYWN0b3JTeXN0ZW11cQB+AAkAAAAec3EAfgALBEXS9HQABm5vdGlmeXNxAH4ACw0Ctkp0AAZzb3VyY2VzcQB+AAssg7qTdAAEd2FpdHNxAH4AC5h7h6d0AA0kYXNJbnN0YW5jZU9mc3EAfgALCcB0UnQABmVxdWFsc3NxAH4AC2sYMiV0AAxhc0luc3RhbmNlT2ZzcQB+AAumEOVmdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAspL6hTdAAMc3luY2hyb25pemVkc3EAfgALyK6ItHQADSRpc0luc3RhbmNlT2ZzcQB+AAsxzKP9dAALY29uc29sZVNpbmtzcQB+AAt85hEFdAAEbWFpbnNxAH4AC2i1V0R0AAlub3RpZnlBbGxzcQB+AAvpo+f9dAAIZmlsZVNpbmtzcQB+AAu+UztKdAAMaXNJbnN0YW5jZU9mc3EAfgALPJ6wNnQABHNpbmtzcQB+AAtjQdEjdAABZ3NxAH4AC/yItjV0AAI9PXNxAH4AC+HdlHJ0AAdpc1ByaW1lc3EAfgALqCO3h3QABWNsb25lc3EAfgALmuPAMXQACHRvU3RyaW5nc3EAfgALS8TWeHQABGFyZ3NzcQB+AAu+3uVOdAACIT1zcQB+AAvYMsSEdAAIZ2V0Q2xhc3NzcQB+AAsD4aO2dAACbmVzcQB+AAu9fnwodAALV3JpdGVTdHJlYW1zcQB+AAuuONyQdAACZXFzcQB+AAuXJsL+dAALZGVsYXllZEluaXRzcQB+AAth+ij6dAACIyNzcQB+AAvpzNSwdAAIZmluYWxpemVzcQB+AAu3BSlkdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAaY29tLnBhY2t0LmFra2EuV3JpdGVTdHJlYW11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgByeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBxAHBzcQB+AHZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB6c3EAfgBxAHBzcQB+AHZ1cQB+AFIAAAAAc3EAfgBxAHBzcQB+AHZ1cQB+AFIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFhxAH4AYXVxAH4AYgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AId4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AeXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB5c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgChc3EAfgBkAHEAfgAndXEAfgBnAAAAAHNxAH4AlHQABFVuaXRxAH4AmnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AId4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGp0AAVQbGFpbnEAfgA7c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCVWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB5c3EAfgCUdAAFQXJyYXlxAH4AmnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCUdAAGU3RyaW5nc3EAfgCYc3EAfgCbdXEAfgCeAAAAA3NxAH4AoHQABGphdmFzcQB+AKB0AARsYW5ncQB+AKVzcQB+AHEAcHNxAH4AdnVxAH4AvAAAAARzcQB+AJR0AANBcHBxAH4AmnNxAH4AlHQAC0RlbGF5ZWRJbml0cQB+AJpzcQB+AJR0AAZPYmplY3RxAH4AwHNxAH4AlHQAA0FueXEAfgCadXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAJY29tLnBhY2t0c3EAfgDUdAAOY29tLnBhY2t0LmFra2FzcQB+ANR0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVHdedUpdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAbC9Vc2Vycy9zYWxtYWtoYXRlci9Eb2N1bWVudHMvTGVhcm5pbmcgQWtrYS9Db3Vyc2UtVmVyc2lvbjIvc2VjdGlvbjcvY29kZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPl8WO7at3/yei9pcXy0Poh2msOC
+external apis:
+0 items
+source infos:
+2 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala -> 
+AAAAAAAAAAA=
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/WriteStreamToFile.scala -> 
+AAAAAAAAAAA=
+compilations:
+29 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT3/rNCd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9ncmFwaC1mbG93cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT3/wwFB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9ncmFwaC1mbG93cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT3/ysyR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9ncmFwaC1mbG93cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT3/zjSh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9ncmFwaC1mbG93cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT3/2Q+J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9ncmFwaC1mbG93cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT3/2sCZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9ncmFwaC1mbG93cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT3/3Y5d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9ncmFwaC1mbG93cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT3/5zK51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9ncmFwaC1mbG93cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT3/6tPp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9ncmFwaC1mbG93cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4BO7Ot1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4BPU351cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4BQCGR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4BTPCx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4BUD2Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4BUeQR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4BVbUd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4BVzg91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4BXwaN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4BpW5x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4CDMIl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4CNQNh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4CfL4h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4ChikN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4ClpDd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4CmDZ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4CnTM51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT4Cv7p11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUd151Sl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbC9Vc2Vycy9zYWxtYWtoYXRlci9Eb2N1bWVudHMvTGVhcm5pbmcgQWtrYS9Db3Vyc2UtVmVyc2lvbjIvc2VjdGlvbjcvY29kZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUd2Cs+J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbC9Vc2Vycy9zYWxtYWtoYXRlci9Eb2N1bWVudHMvTGVhcm5pbmcgQWtrYS9Db3Vyc2UtVmVyc2lvbjIvc2VjdGlvbjcvY29kZS9zdHJlYW0taW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

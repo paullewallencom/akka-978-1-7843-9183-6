@@ -1,0 +1,126 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+5 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/target/scala-2.11/classes/com/packt/akka/Worker$$anonfun$receive$1.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/target/scala-2.11/classes/com/packt/akka/Worker$.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/target/scala-2.11/classes/com/packt/akka/Worker$Done$.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/target/scala-2.11/classes/com/packt/akka/Worker$Work$.class
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> /Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/target/scala-2.11/classes/com/packt/akka/Worker.class
+binary dependencies:
+3 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> /Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> /Users/salmakhater/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+5 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> com.packt.akka.Worker
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> com.packt.akka.Worker$
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> com.packt.akka.Worker$$anonfun$receive$1
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> com.packt.akka.Worker$Done$
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> com.packt.akka.Worker$Work$
+used names:
+36 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> !
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> <init>
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> ==
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> A1
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> Actor
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> ActorRef
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> ActorSystem
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> AnyRef
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> B1
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> Done
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> Function1
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> Predef
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> Product
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> Props
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> ScalaRunTime
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> Serializable
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> StringContext
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> Work
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> Worker
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> actor
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> actorRef2Scala
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> akka
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> apply
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> asInstanceOf
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> com
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> package
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> packt
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> println
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> runtime
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> s
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> scala
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> self
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> sender
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> toString
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> typedProductIterator
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> unchecked
+product stamps:
+5 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/target/scala-2.11/classes/com/packt/akka/Worker$$anonfun$receive$1.class -> lastModified(1451054976000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/target/scala-2.11/classes/com/packt/akka/Worker$.class -> lastModified(1451054976000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/target/scala-2.11/classes/com/packt/akka/Worker$Done$.class -> lastModified(1451054976000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/target/scala-2.11/classes/com/packt/akka/Worker$Work$.class -> lastModified(1451054976000)
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/target/scala-2.11/classes/com/packt/akka/Worker.class -> lastModified(1451054976000)
+source stamps:
+1 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> hash(33ac7274c54a25a561c8f2fe8932c88f8ea57aa2)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
+/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar -> lastModified(1443615484000)
+/Users/salmakhater/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar -> akka.actor.Actor
+/Users/salmakhater/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Product
+internal apis:
+1 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCyePn6AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwwLnKQHQABHNlbGZzcQB+AAsVZ07udAAHY29udGV4dHVxAH4ACQAAACtzcQB+AAvu6aksdAAGbm90aWZ5c3EAfgALzLNywnQAB1JlY2VpdmVzcQB+AAuNBiUKdAAEd2FpdHNxAH4AC5fgaBJ0AA0kYXNJbnN0YW5jZU9mc3EAfgALw308T3QADHByb2R1Y3RBcml0eXNxAH4AC4TMufB0AAZlcXVhbHNzcQB+AAuA7abgdAAMYXNJbnN0YW5jZU9mc3EAfgAL6B96O3QADHN5bmNocm9uaXplZHNxAH4AC4YuZWp0AA0kaXNJbnN0YW5jZU9mc3EAfgALPas+gXQAB3JlY2VpdmVzcQB+AAuRhxM0dAAKcHJlUmVzdGFydHNxAH4ACxb6Cnh0AA1hcm91bmRSZWNlaXZlc3EAfgALo92+j3QACGNhbkVxdWFsc3EAfgALLb0gj3QAC3Bvc3RSZXN0YXJ0c3EAfgALLbgwtnQACHBvc3RTdG9wc3EAfgALovR/n3QADXByb2R1Y3RQcmVmaXhzcQB+AAvf3wPAdAAJbm90aWZ5QWxsc3EAfgALn5HlOXQAC3JlYWRSZXNvbHZlc3EAfgALdsZXh3QAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALZ8Qu3HQABERvbmVzcQB+AAs1HwTsdAAMaXNJbnN0YW5jZU9mc3EAfgALCHlpL3QAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAs/DWA1dAAOYXJvdW5kUG9zdFN0b3BzcQB+AAuEmMfvdAAEV29ya3NxAH4AC/54AoF0AAY8aW5pdD5zcQB+AAtt/Wn2dAAIcHJlU3RhcnRzcQB+AAs+Cdi1dAAJdW5oYW5kbGVkc3EAfgALoMiQRHQAAj09c3EAfgAL54MC8XQABWNsb25lc3EAfgALrI4qBXQABnNlbmRlcnNxAH4AC1B/OU50AAh0b1N0cmluZ3NxAH4AC3HpjRB0AAIhPXNxAH4ACzdENEd0AAhnZXRDbGFzc3NxAH4ACwdpLn10AAZXb3JrZXJzcQB+AAt92mh1dAACbmVzcQB+AAvummo5dAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALKWcJG3QAAmVxc3EAfgALzV3rfXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC8fE0a50AAIjI3NxAH4ACwLvIbx0AAhmaW5hbGl6ZXNxAH4AC2Vm9kF0AA5wcm9kdWN0RWxlbWVudHNxAH4ACwy0w0Z0AAhoYXNoQ29kZXNxAH4AC/VyO5V0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABVjb20ucGFja3QuYWtrYS5Xb3JrZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AIp4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIkAcHNxAH4AjnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBxTAAJaW5oZXJpdGVkcQB+AHFMAAdwYXJlbnRzcQB+AHF4cQB+AJJzcQB+AIkAcHNxAH4AjnVxAH4AbAAAAABzcQB+AIkAcHNxAH4AjnVxAH4AbAAAAABzcQB+AIkAcHNxAH4AjnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AkXQABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCRc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCudAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ar3NxAH4AonQABk9iamVjdHNxAH4ApnNxAH4AqXVxAH4ArAAAAANzcQB+AK50AARqYXZhc3EAfgCudAAEbGFuZ3EAfgC1c3EAfgCidAADQW55c3EAfgCmc3EAfgCpdXEAfgCsAAAAAnNxAH4ArnQABXNjYWxhcQB+ALVzcQB+AG5xAH4Ae3VxAH4AfAAAAABzcQB+AH4AdAAVY29tLnBhY2t0LmFra2EuV29ya2VydXEAfgCBAAAAAH5xAH4Ag3QABk1vZHVsZXVxAH4AhwAAAABzcQB+AIkAcHNxAH4AjnEAfgCTc3EAfgCJAHBzcQB+AI5zcQB+AJZzcQB+AIkAcHNxAH4AjnVxAH4AbAAAAABzcQB+AIkAcHNxAH4AjnVxAH4AbAAAAABzcQB+AIkAcHNxAH4AjnVxAH4AoAAAAAJzcQB+AKJxAH4At3NxAH4ApnNxAH4AqXVxAH4ArAAAAANzcQB+AK5xAH4AvHNxAH4ArnEAfgC+cQB+ALVzcQB+AKJxAH4AwHNxAH4ApnNxAH4AqXVxAH4ArAAAAAJzcQB+AK5xAH4AxXEAfgC1dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAJY29tLnBhY2t0c3EAfgDpdAAOY29tLnBhY2t0LmFra2FzcQB+AOl0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVHZnb1JdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAdS9Vc2Vycy9zYWxtYWtoYXRlci9Eb2N1bWVudHMvTGVhcm5pbmcgQWtrYS9Db3Vyc2UtVmVyc2lvbjIvc2VjdGlvbjYvY29kZS9tdWx0aS1ub2RlLXRlc3RpbmcvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDOscnTFSiWlYcjy/okyyI+OpXqi
+external apis:
+0 items
+source infos:
+1 items
+/Users/salmakhater/Documents/Learning Akka/Course-Version2/section6/code/multi-node-testing/src/main/scala/com/packt/akka/Worker.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUdmdvUl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdS9Vc2Vycy9zYWxtYWtoYXRlci9Eb2N1bWVudHMvTGVhcm5pbmcgQWtrYS9Db3Vyc2UtVmVyc2lvbjIvc2VjdGlvbjYvY29kZS9tdWx0aS1ub2RlLXRlc3RpbmcvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

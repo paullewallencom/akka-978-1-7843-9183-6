@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mUserStorageSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mUser Storage[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Start with disconnected state and empty data[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be connected state if it receive a connect message[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be still in disconnected state if it receive any other messages[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be switch to disconnected when it receive a disconnect message on Connected state[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be still on connected state if it receive any DB operations[0m[0m

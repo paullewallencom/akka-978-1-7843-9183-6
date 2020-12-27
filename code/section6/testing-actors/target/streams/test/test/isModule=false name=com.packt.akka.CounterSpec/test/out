@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mCounterSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mCounter Actor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle GetCount message with using TestProbe[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle Increment message[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle Decrement message[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle GetCount message[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle sequence of messages[0m[0m

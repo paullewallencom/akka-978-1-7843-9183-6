@@ -1,0 +1,569 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+58 items
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Apollo$$anonfun$receive$1.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Apollo$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Apollo$Play$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Apollo$Stop$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Apollo.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Creation$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Creation$delayedInit$body.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Creation.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Zeus$$anonfun$receive$2.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Zeus$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Zeus$StartMusic$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Zeus$StopMusic$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Zeus.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Ares$$anonfun$receive$1.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Ares.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Athena$$anonfun$receive$2.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Athena.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Monitoring$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Monitoring$delayedInit$body.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Monitoring.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Aphrodite$$anonfun$receive$1.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Aphrodite$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Aphrodite$RestartException$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Aphrodite$ResumeException$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Aphrodite$StopException$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Aphrodite.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Hera$$anonfun$1.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Hera$$anonfun$receive$2.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Hera.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Supervision$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Supervision$delayedInit$body.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Supervision.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$$anonfun$receive$2.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$BlackUser$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$BlackUser.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$CheckUser$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$CheckUser.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$WhiteUser$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$WhiteUser.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder$$anonfun$props$1.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder$$anonfun$receive$3$$anonfun$applyOrElse$1.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder$$anonfun$receive$3.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder$NewUser$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder$NewUser.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Storage$$anonfun$receive$1.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Storage$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Storage$AddUser$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Storage$AddUser.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Storage.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/TalkToActor$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/TalkToActor$delayedInit$body.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/TalkToActor.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/User$.class
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/User.class
+binary dependencies:
+12 items
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /home/salma/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.2.jar
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> /home/salma/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> /home/salma/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.2.jar
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /home/salma/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.2.jar
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /home/salma/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.2.jar
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+58 items
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com.packt.akka.Apollo
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com.packt.akka.Apollo$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com.packt.akka.Apollo$$anonfun$receive$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com.packt.akka.Apollo$Play$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com.packt.akka.Apollo$Stop$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com.packt.akka.Creation
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com.packt.akka.Creation$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com.packt.akka.Creation$delayedInit$body
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com.packt.akka.Zeus
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com.packt.akka.Zeus$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com.packt.akka.Zeus$$anonfun$receive$2
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com.packt.akka.Zeus$StartMusic$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com.packt.akka.Zeus$StopMusic$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> com.packt.akka.Ares
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> com.packt.akka.Ares$$anonfun$receive$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> com.packt.akka.Athena
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> com.packt.akka.Athena$$anonfun$receive$2
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> com.packt.akka.Monitoring
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> com.packt.akka.Monitoring$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> com.packt.akka.Monitoring$delayedInit$body
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> com.packt.akka.Aphrodite
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> com.packt.akka.Aphrodite$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> com.packt.akka.Aphrodite$$anonfun$receive$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> com.packt.akka.Aphrodite$RestartException$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> com.packt.akka.Aphrodite$ResumeException$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> com.packt.akka.Aphrodite$StopException$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> com.packt.akka.Hera
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> com.packt.akka.Hera$$anonfun$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> com.packt.akka.Hera$$anonfun$receive$2
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> com.packt.akka.Supervision
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> com.packt.akka.Supervision$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> com.packt.akka.Supervision$delayedInit$body
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Checker
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Checker$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Checker$$anonfun$receive$2
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Checker$BlackUser
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Checker$BlackUser$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Checker$CheckUser
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Checker$CheckUser$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Checker$WhiteUser
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Checker$WhiteUser$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Recorder
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Recorder$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Recorder$$anonfun$props$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Recorder$$anonfun$receive$3
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Recorder$$anonfun$receive$3$$anonfun$applyOrElse$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Recorder$NewUser
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Recorder$NewUser$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Storage
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Storage$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Storage$$anonfun$receive$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Storage$AddUser
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.Storage$AddUser$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.TalkToActor
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.TalkToActor$
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.TalkToActor$delayedInit$body
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.User
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com.packt.akka.User$
+used names:
+262 items
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> !
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> <init>
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> ==
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> A1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> Actor
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> ActorRef
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> ActorSystem
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> AnyRef
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> Apollo
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> App
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> B1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> ClassTag
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> Creation
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> Function1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> Play
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> Predef
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> Product
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> Props
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> ScalaRunTime
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> Serializable
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> StartMusic
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> Stop
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> StopMusic
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> Zeus
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> actor
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> actorOf
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> actorRef2Scala
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> akka
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> apollo
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> apply
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> asInstanceOf
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> com
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> concurrent
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> context
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> duration
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> materializeClassTag
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> package
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> packt
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> println
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> props
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> qual$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> qual$2
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> runtime
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> scala
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> self
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> shutdown
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> system
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> toString
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> typedProductIterator
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> unchecked
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> x$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> x$2
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> x$3
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> x$4
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> zeus
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> !
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> <init>
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> ==
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> A1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> Actor
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> ActorRef
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> ActorSystem
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> App
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> Ares
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> Athena
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> B1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> ClassTag
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> Function1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> Monitoring
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> Predef
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> Props
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> StringContext
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> Terminated
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> actor
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> actorOf
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> actorRef2Scala
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> akka
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> apply
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> ares
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> asInstanceOf
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> athena
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> com
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> context
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> materializeClassTag
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> package
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> packt
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> println
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> qual$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> s
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> scala
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> self
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> shutdown
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> stop
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> system
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> unchecked
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> watch
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> x$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> x$2
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> !
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> <init>
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> ==
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> A1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Actor
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> ActorRef
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> ActorSystem
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Any
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> AnyRef
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Aphrodite
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> App
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> B1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> ClassTag
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Escalate
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Exception
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Function1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Hera
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> OneForOneStrategy
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Option
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Predef
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Product
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Props
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Restart
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> RestartException
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Resume
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> ResumeException
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> ScalaRunTime
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Serializable
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Stop
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> StopException
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> StringContext
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Supervision
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> SupervisorStrategy
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Thread
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> Throwable
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> actor
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> actorOf
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> actorRef2Scala
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> akka
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> apply
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> asInstanceOf
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> childRef
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> childRef_=
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> com
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> concurrent
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> context
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> duration
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> hera
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> isInstanceOf
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> java
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> lang
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> materializeClassTag
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> message
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> package
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> packt
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> postRestart
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> preRestart
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> println
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> qual$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> reason
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> runtime
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> s
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> scala
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> second
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> self
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> shutdown
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> sleep
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> supervisorStrategy
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> system
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> toString
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> typedProductIterator
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> unchecked
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> x$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> x$2
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> !
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> &&
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> ::
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> <init>
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> ==
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> ?
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> A1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> AbstractFunction1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> AbstractFunction2
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> Actor
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> ActorRef
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> ActorSystem
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> AddUser
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> AnyRef
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> App
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> B1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> BlackUser
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> CheckUser
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> Checker
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> ClassTag
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> ExecutionContext
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> Function1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> Implicits
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> List
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> NewUser
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> None
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> Predef
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> Product
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> Props
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> Recorder
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> ScalaRunTime
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> Serializable
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> Storage
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> String
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> StringContext
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> TalkToActor
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> Timeout
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> User
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> WhiteUser
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> _hashCode
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> _toString
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> actor
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> actorOf
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> actorRef2Scala
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> akka
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> apply
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> asInstanceOf
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> ask
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> blackList
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> checker
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> com
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> concurrent
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> contains
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> duration
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> email
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> empty
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> eq
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> global
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> immutable
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> isInstanceOf
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> map
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> materializeClassTag
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> package
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> packt
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> pattern
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> println
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> props
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> qual$1
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> recorder
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> runtime
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> s
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> scala
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> seconds
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> self
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> sender
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> shutdown
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> storage
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> system
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> timeout
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> toString
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> typedProductIterator
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> unchecked
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> user
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> username
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> users
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> users_=
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> util
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> x$2
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> x$3
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> ||
+product stamps:
+58 items
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Aphrodite$$anonfun$receive$1.class -> lastModified(1436182346000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Aphrodite$.class -> lastModified(1436182346000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Aphrodite$RestartException$.class -> lastModified(1436182346000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Aphrodite$ResumeException$.class -> lastModified(1436182346000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Aphrodite$StopException$.class -> lastModified(1436182346000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Aphrodite.class -> lastModified(1436182346000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Apollo$$anonfun$receive$1.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Apollo$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Apollo$Play$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Apollo$Stop$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Apollo.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Ares$$anonfun$receive$1.class -> lastModified(1436177604000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Ares.class -> lastModified(1436177604000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Athena$$anonfun$receive$2.class -> lastModified(1436177604000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Athena.class -> lastModified(1436177604000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$$anonfun$receive$2.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$BlackUser$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$BlackUser.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$CheckUser$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$CheckUser.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$WhiteUser$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker$WhiteUser.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Checker.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Creation$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Creation$delayedInit$body.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Creation.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Hera$$anonfun$1.class -> lastModified(1436182347000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Hera$$anonfun$receive$2.class -> lastModified(1436182347000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Hera.class -> lastModified(1436182346000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Monitoring$.class -> lastModified(1436177604000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Monitoring$delayedInit$body.class -> lastModified(1436177604000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Monitoring.class -> lastModified(1436177604000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder$$anonfun$props$1.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder$$anonfun$receive$3$$anonfun$applyOrElse$1.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder$$anonfun$receive$3.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder$NewUser$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder$NewUser.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Recorder.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Storage$$anonfun$receive$1.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Storage$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Storage$AddUser$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Storage$AddUser.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Storage.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Supervision$.class -> lastModified(1436182347000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Supervision$delayedInit$body.class -> lastModified(1436182347000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Supervision.class -> lastModified(1436182347000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/TalkToActor$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/TalkToActor$delayedInit$body.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/TalkToActor.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/User$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/User.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Zeus$$anonfun$receive$2.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Zeus$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Zeus$StartMusic$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Zeus$StopMusic$.class -> lastModified(1436173861000)
+/home/salma/workspace/Akka Course/playing-with-actors/target/scala-2.11/classes/com/packt/akka/Zeus.class -> lastModified(1436173861000)
+source stamps:
+4 items
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> hash(d38b50e6c15cebaf4c5eb33a47339ee0a6ca7832)
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> hash(0a8a7ee47a4e8ebf392bb3afccadc5f2dd3427d0)
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> hash(ed9d44274149b369534a20c33e1fc82fe1649ddb)
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> hash(7ae6d4e2f40a2cff47db5f0feeae4c0812261870)
+binary stamps:
+3 items
+/home/salma/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar -> lastModified(1431096334000)
+/home/salma/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.2.jar -> lastModified(1406097530000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1434017509000)
+class names:
+3 items
+/home/salma/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar -> akka.actor.Actor
+/home/salma/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.2.jar -> scala.Product
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+4 items
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCUOrxQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwlp3THnQABHNlbGZzcQB+AAvXGe/MdAAHY29udGV4dHVxAH4ACQAAADZzcQB+AAtDWJkUdAAGbm90aWZ5c3EAfgAL+dIlLHQAB1JlY2VpdmVzcQB+AAsyWly/dAAEd2FpdHNxAH4AC0uvtql0AA0kYXNJbnN0YW5jZU9mc3EAfgAL6L1CEXQABnN5c3RlbXNxAH4ACwDw8l50AAxwcm9kdWN0QXJpdHlzcQB+AAt9OYo6dAAGZXF1YWxzc3EAfgALDFGkpXQADGFzSW5zdGFuY2VPZnNxAH4AC6G+ADd0AA5leGVjdXRpb25TdGFydHNxAH4AC5WEE/h0AAxzeW5jaHJvbml6ZWRzcQB+AAt2Zf8MdAANJGlzSW5zdGFuY2VPZnNxAH4AC/frr9J0AAdyZWNlaXZlc3EAfgALACHCI3QACnByZVJlc3RhcnRzcQB+AAuLmv0mdAAEWmV1c3NxAH4AC6d/rXB0AA1hcm91bmRSZWNlaXZlc3EAfgALIiWp8HQACGNhbkVxdWFsc3EAfgAL+ragwHQAC3Bvc3RSZXN0YXJ0c3EAfgALvsc5aXQABG1haW5zcQB+AAuTa/cPdAAIcG9zdFN0b3BzcQB+AAs4WzWxdAANcHJvZHVjdFByZWZpeHNxAH4ACxoAoCV0AAlub3RpZnlBbGxzcQB+AAvBBLZ8dAALcmVhZFJlc29sdmVzcQB+AAtVQXMIdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAvQEYW+dAAMaXNJbnN0YW5jZU9mc3EAfgALGFseBXQABFBsYXlzcQB+AAuU9pBsdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC6XmDeZ0AA5hcm91bmRQb3N0U3RvcHNxAH4ACyhH01N0AAY8aW5pdD5zcQB+AAtJGB+udAAIcHJlU3RhcnRzcQB+AAthBUDEdAAJdW5oYW5kbGVkc3EAfgALBDrqUnQAAj09c3EAfgALnedq0HQABWNsb25lc3EAfgALJ/XzWHQABkFwb2xsb3NxAH4AC2jmFyJ0AApTdGFydE11c2ljc3EAfgALzJuGbHQABnNlbmRlcnNxAH4AC8sVajR0AAh0b1N0cmluZ3NxAH4AC8lBQoh0AARhcmdzc3EAfgALRbMeOnQAAiE9c3EAfgALlowLgXQACGdldENsYXNzc3EAfgALBM/h73QABXByb3Bzc3EAfgALRIa0kXQABFN0b3BzcQB+AAsi0aQOdAACbmVzcQB+AAv+LZcYdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALoQEbZ3QAAmVxc3EAfgAL24TzoXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC2TKPTx0AAR6ZXVzc3EAfgAL7CxFCHQAC2RlbGF5ZWRJbml0c3EAfgALJvBfdnQAAiMjc3EAfgALAncjA3QACGZpbmFsaXplc3EAfgALQ7FKFnQADnByb2R1Y3RFbGVtZW50c3EAfgALrnIlc3QACGhhc2hDb2Rlc3EAfgALT1ZbhnQADmFyb3VuZFByZVN0YXJ0c3EAfgALiUDn/nQACENyZWF0aW9uc3EAfgALurdKBXQACVN0b3BNdXNpY3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAVzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AId4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABVjb20ucGFja3QuYWtrYS5BcG9sbG91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AJ8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AIdMAAlpbmhlcml0ZWRxAH4Ah0wAB3BhcmVudHNxAH4Ah3hxAH4ApnNxAH4AnwF1cQB+AIIAAAAAcHNxAH4AnwF1cQB+AIIAAAAAcHNxAH4AnwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AL50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AL9zcQB+ALJ0AANBbnlzcQB+ALZzcQB+ALl1cQB+ALwAAAACc3EAfgC+dAAFc2NhbGFxAH4AxXBwc3EAfgCEcQB+AJF1cQB+AJIAAAAAc3EAfgCUAHQAFWNvbS5wYWNrdC5ha2thLkFwb2xsb3VxAH4AlwAAAAB+cQB+AJl0AAhDbGFzc0RlZnVxAH4AnQAAAABzcQB+AJ8BcQB+AKdwc3EAfgCfAXNxAH4AqXNxAH4AnwF1cQB+AIIAAAAAcHNxAH4AnwF1cQB+AIIAAAAAcHNxAH4AnwF1cQB+ALAAAAADc3EAfgCydAAFQWN0b3JzcQB+ALZzcQB+ALl1cQB+ALwAAAADc3EAfgC+dAAEYWtrYXNxAH4AvnQABWFjdG9ycQB+AMVzcQB+ALJxAH4AtXNxAH4AtnNxAH4AuXVxAH4AvAAAAANzcQB+AL5xAH4AwXNxAH4AvnEAfgDDcQB+AMVzcQB+ALJxAH4Ax3NxAH4AtnNxAH4AuXVxAH4AvAAAAAJzcQB+AL5xAH4AzHEAfgDFcHBzcQB+AIRxAH4AkXVxAH4AkgAAAABzcQB+AJQAdAATY29tLnBhY2t0LmFra2EuWmV1c3VxAH4AlwAAAABxAH4Am3VxAH4AnQAAAABzcQB+AJ8BcQB+AKdwc3EAfgCfAXNxAH4AqXNxAH4AnwF1cQB+AIIAAAAAcHNxAH4AnwF1cQB+AIIAAAAAcHNxAH4AnwF1cQB+ALAAAAACc3EAfgCycQB+ALVzcQB+ALZzcQB+ALl1cQB+ALwAAAADc3EAfgC+cQB+AMFzcQB+AL5xAH4Aw3EAfgDFc3EAfgCycQB+AMdzcQB+ALZzcQB+ALl1cQB+ALwAAAACc3EAfgC+cQB+AMxxAH4AxXBwc3EAfgCEcQB+AJF1cQB+AJIAAAAAc3EAfgCUAHQAE2NvbS5wYWNrdC5ha2thLlpldXN1cQB+AJcAAAAAcQB+ANJ1cQB+AJ0AAAAAc3EAfgCfAXEAfgCncHNxAH4AnwFzcQB+AKlzcQB+AJ8BdXEAfgCCAAAAAHBzcQB+AJ8BdXEAfgCCAAAAAHBzcQB+AJ8BdXEAfgCwAAAAA3NxAH4AsnQABUFjdG9yc3EAfgC2c3EAfgC5dXEAfgC8AAAAA3NxAH4AvnQABGFra2FzcQB+AL50AAVhY3RvcnEAfgDFc3EAfgCycQB+ALVzcQB+ALZzcQB+ALl1cQB+ALwAAAADc3EAfgC+cQB+AMFzcQB+AL5xAH4Aw3EAfgDFc3EAfgCycQB+AMdzcQB+ALZzcQB+ALl1cQB+ALwAAAACc3EAfgC+cQB+AMxxAH4AxXBwc3EAfgCEcQB+AJF1cQB+AJIAAAAAc3EAfgCUAHQAF2NvbS5wYWNrdC5ha2thLkNyZWF0aW9udXEAfgCXAAAAAHEAfgCbdXEAfgCdAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AnwFxAH4Ap3BzcQB+AJ8Bc3EAfgCpc3EAfgCfAXVxAH4AggAAAABwc3EAfgCfAXVxAH4AggAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AiHEAfgCRdXEAfgCSAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4BP3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+ALJ0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AtnNxAH4AuXVxAH4AvAAAAAJzcQB+AL5xAH4AzHEAfgDFc3EAfgCUAHEAfgA1dXEAfgCXAAAAAHNxAH4AsnQABFVuaXRxAH4BTnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AT94cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AJp0AAVQbGFpbnEAfgBbc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCzWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgClc3EAfgCydAAFQXJyYXlxAH4BTnVxAH4AsAAAAAFzcQB+ALJ0AAZTdHJpbmdzcQB+ALZzcQB+ALl1cQB+ALwAAAADc3EAfgC+cQB+AMFzcQB+AL5xAH4Aw3EAfgDFcHNxAH4AnwF1cQB+ALAAAAAEc3EAfgCydAADQXBwcQB+AU5zcQB+ALJ0AAtEZWxheWVkSW5pdHEAfgFOc3EAfgCycQB+ALVxAH4Ba3NxAH4AsnEAfgDHcQB+AU5wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACWNvbS5wYWNrdHNxAH4BenQADmNvbS5wYWNrdC5ha2thc3EAfgF6dAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFOYqH7RHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AE8vaG9tZS9zYWxtYS93b3Jrc3BhY2UvQWtrYSBDb3Vyc2UvcGxheWluZy13aXRoLWFjdG9ycy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU04tQ5sFc669MXrM6RzOe4KbKeDI=
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB220afAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9JuDO3QABHNlbGZzcQB+AAsmrU8ldAAHY29udGV4dHVxAH4ACQAAACxzcQB+AAsC0dqAdAAGbm90aWZ5c3EAfgALBOuT2nQAB1JlY2VpdmVzcQB+AAuDup/ndAAEd2FpdHNxAH4ACxPGW1V0AA0kYXNJbnN0YW5jZU9mc3EAfgALTu1b/nQABnN5c3RlbXNxAH4AC6oKObZ0AAZlcXVhbHNzcQB+AAtYvVNCdAAMYXNJbnN0YW5jZU9mc3EAfgALP7NwiHQADmV4ZWN1dGlvblN0YXJ0c3EAfgALI8InUHQADHN5bmNocm9uaXplZHNxAH4AC2egyRF0AA0kaXNJbnN0YW5jZU9mc3EAfgAL92eRpXQAB3JlY2VpdmVzcQB+AAu2jryHdAAEQXJlc3NxAH4ACyiipFV0AApwcmVSZXN0YXJ0c3EAfgAL5Qz0nHQADWFyb3VuZFJlY2VpdmVzcQB+AAsQ7enydAALcG9zdFJlc3RhcnRzcQB+AAsNn/AldAAEbWFpbnNxAH4AC0zgC+Z0AAhwb3N0U3RvcHNxAH4AC5JZjfd0AARhcmVzc3EAfgALV37mAXQACW5vdGlmeUFsbHNxAH4AC5yjG0J0AAZhdGhlbmFzcQB+AAtdkHjRdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAuqXtpMdAAMaXNJbnN0YW5jZU9mc3EAfgALZHBB33QAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAvwuDRHdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAu37kTwdAAGPGluaXQ+c3EAfgALJi0rRnQACHByZVN0YXJ0c3EAfgALPD2wLHQACXVuaGFuZGxlZHNxAH4AC7wnC6B0AAI9PXNxAH4AC6xYCoh0AAVjbG9uZXNxAH4ACyAUFd90AApNb25pdG9yaW5nc3EAfgALlXxEfHQABnNlbmRlcnNxAH4ACyJVh4V0AAh0b1N0cmluZ3NxAH4ACxk3hTd0AARhcmdzc3EAfgALDu9QFHQAAiE9c3EAfgALWs8Ga3QABkF0aGVuYXNxAH4AC7SoZY90AAhnZXRDbGFzc3NxAH4AC9gb5FN0AAJuZXNxAH4ACz/6qXh0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAuQOMTadAACZXFzcQB+AAtEl+fZdAALZGVsYXllZEluaXRzcQB+AAu2b5OkdAACIyNzcQB+AAukBvkidAAIZmluYWxpemVzcQB+AAvKl7jUdAAIaGFzaENvZGVzcQB+AAu+SiRsdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBzeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAATY29tLnBhY2t0LmFra2EuQXJlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AjHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AiwFzcgATeHNidGkuYXBpLlN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hbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+APt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AIZ0AAVQbGFpbnEAfgBTc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgChWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCTc3EAfgCgdAAFQXJyYXlxAH4BCnVxAH4AngAAAAFzcQB+AKB0AAZTdHJpbmdzcQB+AKRzcQB+AKd1cQB+AKoAAAADc3EAfgCscQB+ALpzcQB+AKxxAH4AvHEAfgCzcHNxAH4AiwF1cQB+AJ4AAAAEc3EAfgCgdAADQXBwcQB+AQpzcQB+AKB0AAtEZWxheWVkSW5pdHEAfgEKc3EAfgCgcQB+ALVxAH4BJ3NxAH4AoHEAfgC+cQB+AQpwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACWNvbS5wYWNrdHNxAH4BNnQADmNvbS5wYWNrdC5ha2thc3EAfgE2dAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFOYtr5NnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AE8vaG9tZS9zYWxtYS93b3Jrc3BhY2UvQWtrYSBDb3Vyc2UvcGxheWluZy13aXRoLWFjdG9ycy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUCop+5HpOjr85K7OvzK3F8t00J9A=
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA0lyN9AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwE/b0ZHQABHNlbGZzcQB+AAui+d1KdAAHY29udGV4dHVxAH4ACQAAAEFzcQB+AAv1/QkWdAAGbm90aWZ5c3EAfgAL5sgex3QAB1JlY2VpdmVzcQB+AAu+TqsgdAAPcHJpbnRTdGFja1RyYWNlc3EAfgALG5qVPnQAE2dldExvY2FsaXplZE1lc3NhZ2VzcQB+AAszOdKPdAAEd2FpdHNxAH4ACz3GlRl0AA0kYXNJbnN0YW5jZU9mc3EAfgALpCIMsnQABnN5c3RlbXNxAH4AC3miIH10AAxwcm9kdWN0QXJpdHlzcQB+AAv2tQdkdAAGZXF1YWxzc3EAfgALRFYZ0nQAEGZpbGxJblN0YWNrVHJhY2VzcQB+AAvBsS5hdAAJaW5pdENhdXNlc3EAfgALp75wD3QADGFzSW5zdGFuY2VPZnNxAH4AC1yy64Z0AA5leGVjdXRpb25TdGFydHNxAH4AC7kq/4B0AARIZXJhc3EAfgAL7dKQyHQADHN5bmNocm9uaXplZHNxAH4AC3EwoPR0AAtTdXBlcnZpc2lvbnNxAH4AC67O1Kh0AA0kaXNJbnN0YW5jZU9mc3EAfgALrJ2h/3QAB3JlY2VpdmVzcQB+AAs47jfVdAAIZ2V0Q2F1c2VzcQB+AAvMTCgIdAAKcHJlUmVzdGFydHNxAH4ACxhYOVh0AA1hcm91bmRSZWNlaXZlc3EAfgAL1s3zXnQACGNhbkVxdWFsc3EAfgALln5LJnQAC3Bvc3RSZXN0YXJ0c3EAfgALpK8RNXQABG1haW5zcQB+AAvg9tK7dAAQUmVzdGFydEV4Y2VwdGlvbnNxAH4ACzoG6Ox0AAhwb3N0U3RvcHNxAH4AC6pO+yZ0AA1wcm9kdWN0UHJlZml4c3EAfgALD1wkEXQACW5vdGlmeUFsbHNxAH4AC5PzNfZ0AAtyZWFkUmVzb2x2ZXNxAH4AC2WQKVB0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC2RCqCF0AA1TdG9wRXhjZXB0aW9uc3EAfgALKmRQVHQADGlzSW5zdGFuY2VPZnNxAH4AC0ytQap0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALaLsEfXQADWdldFN0YWNrVHJhY2VzcQB+AAsKb1fldAAOYXJvdW5kUG9zdFN0b3BzcQB+AAvdpNHndAAUZ2V0U3RhY2tUcmFjZUVsZW1lbnRzcQB+AAvzCmBgdAAGPGluaXQ+c3EAfgALSAseKHQACmdldE1lc3NhZ2VzcQB+AAucs8LVdAAIcHJlU3RhcnRzcQB+AAs4tUytdAANc2V0U3RhY2tUcmFjZXNxAH4ACyODUwN0AAl1bmhhbmRsZWRzcQB+AAtv5QTxdAAEaGVyYXNxAH4AC+TDWQp0AA1nZXRTdXBwcmVzc2Vkc3EAfgALJoFAB3QACUFwaHJvZGl0ZXNxAH4AC7osezN0AAI9PXNxAH4AC6jjbG10ABJnZXRTdGFja1RyYWNlRGVwdGhzcQB+AAtgx3e/dAAFY2xvbmVzcQB+AAvI+5zhdAANYWRkU3VwcHJlc3NlZHNxAH4AC+ZQ4fh0AA9SZXN1bWVFeGNlcHRpb25zcQB+AAsxq6YGdAAGc2VuZGVyc3EAfgALzQ+rQ3QACHRvU3RyaW5nc3EAfgALXtoDKXQABGFyZ3NzcQB+AAuloCBwdAACIT1zcQB+AAtr0QzudAAIZ2V0Q2xhc3NzcQB+AAtaj49edAACbmVzcQB+AAt/xoL9dAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALI3rk/HQAAmVxc3EAfgALz7hhNnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC2mZzr90AAtkZWxheWVkSW5pdHNxAH4AC8U3Uol0AAIjI3NxAH4AC940gjt0AAhmaW5hbGl6ZXNxAH4AC3DRdzx0AA5wcm9kdWN0RWxlbWVudHNxAH4ACyZyFal0AAhoYXNoQ29kZXNxAH4AC8tiA990AAhjaGlsZFJlZnNxAH4AC0qYhIR0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJ14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABhjb20ucGFja3QuYWtrYS5BcGhyb2RpdGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AtQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AnUwACWluaGVyaXRlZHEAfgCdTAAHcGFyZW50c3EAfgCdeHEAfgC8c3EAfgC1AXVxAH4AmAAAAABwc3EAfgC1AXVxAH4AmAAAAABwc3EAfgC1AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Au3QABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgDUdAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A1XNxAH4AyHQABk9iamVjdHNxAH4AzHNxAH4Az3VxAH4A0gAAAANzcQB+ANR0AARqYXZhc3EAfgDUdAAEbGFuZ3EAfgDbc3EAfgDIdAADQW55c3EAfgDMc3EAfgDPdXEAfgDSAAAAAnNxAH4A1HQABXNjYWxhcQB+ANtwcHNxAH4AmnEAfgCndXEAfgCoAAAAAHNxAH4AqgB0ABhjb20ucGFja3QuYWtrYS5BcGhyb2RpdGV1cQB+AK0AAAAAfnEAfgCvdAAGTW9kdWxldXEAfgCzAAAAAHNxAH4AtQFxAH4AvXBzcQB+ALUBc3EAfgC/c3EAfgC1AXVxAH4AmAAAAABwc3EAfgC1AXVxAH4AmAAAAABwc3EAfgC1AXVxAH4AxgAAAAJzcQB+AMhxAH4A3XNxAH4AzHNxAH4Az3VxAH4A0gAAAANzcQB+ANRxAH4A4nNxAH4A1HEAfgDkcQB+ANtzcQB+AMhxAH4A5nNxAH4AzHNxAH4Az3VxAH4A0gAAAAJzcQB+ANRxAH4A63EAfgDbcHBzcQB+AJpxAH4Ap3VxAH4AqAAAAABzcQB+AKoAdAATY29tLnBhY2t0LmFra2EuSGVyYXVxAH4ArQAAAABxAH4AsXVxAH4AswAAAABzcQB+ALUBcQB+AL1wc3EAfgC1AXNxAH4Av3NxAH4AtQF1cQB+AJgAAAAAcHNxAH4AtQF1cQB+AJgAAAAAcHNxAH4AtQF1cQB+AMYAAAADc3EAfgDIdAAFQWN0b3JzcQB+AMxzcQB+AM91cQB+ANIAAAADc3EAfgDUdAAEYWtrYXNxAH4A1HQABWFjdG9ycQB+ANtzcQB+AMhxAH4A3XNxAH4AzHNxAH4Az3VxAH4A0gAAAANzcQB+ANRxAH4A4nNxAH4A1HEAfgDkcQB+ANtzcQB+AMhxAH4A5nNxAH4AzHNxAH4Az3VxAH4A0gAAAAJzcQB+ANRxAH4A63EAfgDbcHBzcQB+AJpxAH4Ap3VxAH4AqAAAAABzcQB+AKoAdAAaY29tLnBhY2t0LmFra2EuU3VwZXJ2aXNpb251cQB+AK0AAAAAcQB+APF1cQB+ALMAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgC1AXEAfgC9cHNxAH4AtQFzcQB+AL9zcQB+ALUBdXEAfgCYAAAAAHBzcQB+ALUBdXEAfgCYAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCecQB+AKd1cQB+AKgAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgE7eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNxAH4AyHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgDMc3EAfgDPdXEAfgDSAAAAAnNxAH4A1HEAfgDrcQB+ANtzcQB+AKoAcQB+AEF1cQB+AK0AAAAAc3EAfgDIdAAEVW5pdHEAfgFKdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4BO3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AsHQABVBsYWlucQB+AHlzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AMlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ALtzcQB+AMh0AAVBcnJheXEAfgFKdXEAfgDGAAAAAXNxAH4AyHQABlN0cmluZ3NxAH4AzHNxAH4Az3VxAH4A0gAAAANzcQB+ANRxAH4A4nNxAH4A1HEAfgDkcQB+ANtwc3EAfgC1AXVxAH4AxgAAAARzcQB+AMh0AANBcHBxAH4BSnNxAH4AyHQAC0RlbGF5ZWRJbml0cQB+AUpzcQB+AMhxAH4A3XEAfgFnc3EAfgDIcQB+AOZxAH4BSnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAJY29tLnBhY2t0c3EAfgF2dAAOY29tLnBhY2t0LmFra2FzcQB+AXZ0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU5jI3kGdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTtnUQnQUmzaVNKIMM+H8gv4WSd2w==
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAT26prAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwXeF2NXQABHNlbGZzcQB+AAuvjSapdAAHdGltZW91dHNxAH4AC/adrqJ0AAdjb250ZXh0dXEAfgAJAAAAR3NxAH4AC901Q/J0AAdTdG9yYWdlc3EAfgALvEB+PXQABm5vdGlmeXNxAH4AC/9w9CJ0AAd1bmFwcGx5c3EAfgALf2xjrXQAB1JlY2VpdmVzcQB+AAuTA3cidAALVGFsa1RvQWN0b3JzcQB+AAvmSj89dAAEd2FpdHNxAH4ACzCeUpN0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC5oMWvZ0AA0kYXNJbnN0YW5jZU9mc3EAfgALfYDDIXQABnN5c3RlbXNxAH4AC5uEbol0AAdjb21wb3Nlc3EAfgALJ5W0rXQABWVtYWlsc3EAfgALuMxKenQADHByb2R1Y3RBcml0eXNxAH4AC4p9wXp0AAZlcXVhbHNzcQB+AAuN3GuSdAAJQ2hlY2tVc2Vyc3EAfgALtgg5XHQACHVzZXJuYW1lc3EAfgALf0RwrXQADGFzSW5zdGFuY2VPZnNxAH4AC42CGSl0AA5leGVjdXRpb25TdGFydHNxAH4ACxyVWDR0AAV1c2Vyc3NxAH4AC/xv/H50AAxzeW5jaHJvbml6ZWRzcQB+AAvTCKvFdAANJGlzSW5zdGFuY2VPZnNxAH4AC30TWBd0AAdhbmRUaGVuc3EAfgALXT3kjHQAB3JlY2VpdmVzcQB+AAuxqXf7dAAKcHJlUmVzdGFydHNxAH4ACxPd+Jp0AAlXaGl0ZVVzZXJzcQB+AAueYvVLdAAJYmxhY2tMaXN0c3EAfgALlv/xbXQADWFyb3VuZFJlY2VpdmVzcQB+AAupzAtWdAAHQWRkVXNlcnNxAH4AC+MFuFF0AAhjYW5FcXVhbHNxAH4AC5MUISB0AAtwb3N0UmVzdGFydHNxAH4AC5e1aSp0AARtYWluc3EAfgALreoQ3nQACHBvc3RTdG9wc3EAfgALP3wNknQADXByb2R1Y3RQcmVmaXhzcQB+AAvRNpk0dAAJbm90aWZ5QWxsc3EAfgAL1iWxe3QAC3JlYWRSZXNvbHZlc3EAfgALbgkDzXQAB2NoZWNrZXJzcQB+AAuGaZp1dAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAv50p4GdAAMaXNJbnN0YW5jZU9mc3EAfgALlLsGpHQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAu6/UxpdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAvNlAl6dAAHTmV3VXNlcnNxAH4ACw4k9ZJ0AAY8aW5pdD5zcQB+AAssrbW3dAAIcHJlU3RhcnRzcQB+AAu+dpAddAAJdW5oYW5kbGVkc3EAfgALCJU8IXQABWFwcGx5c3EAfgAL+AwKqnQACUJsYWNrVXNlcnNxAH4ACzoa8ep0AAI9PXNxAH4AC99X2q90AAVjbG9uZXNxAH4ACxVBgMx0AARVc2Vyc3EAfgALLKOOG3QABGNvcHlzcQB+AAvqsaN7dAAGc2VuZGVyc3EAfgALdItl+3QAB3N0b3JhZ2VzcQB+AAs0ceBpdAAIdG9TdHJpbmdzcQB+AAsvtMbSdAAEYXJnc3NxAH4ACy7/ssJ0AAdDaGVja2Vyc3EAfgAL9XxkEXQAAiE9c3EAfgALp/MXsHQACGdldENsYXNzc3EAfgALaDHbW3QADmNvcHkkZGVmYXVsdCQxc3EAfgALwwzEMHQABXByb3Bzc3EAfgAL7IbNjHQAAm5lc3EAfgALrYCf6nQACFJlY29yZGVyc3EAfgALPWryXXQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC25OUd10AAR1c2Vyc3EAfgALFypZynQAAmVxc3EAfgALgUeD0nQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACz0LtmZ0AAtkZWxheWVkSW5pdHNxAH4AC8H2Gd50AAIjI3NxAH4AC13KgMl0AAhmaW5hbGl6ZXNxAH4ACxtc0AR0AA5wcm9kdWN0RWxlbWVudHNxAH4AC/ItzyR0AAhoYXNoQ29kZXNxAH4ACwKqRa10AAhyZWNvcmRlcnNxAH4AC5eiGyp0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAhzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AKt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABNjb20ucGFja3QuYWtrYS5Vc2VydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AMMBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AKtMAAlpbmhlcml0ZWRxAH4Aq0wAB3BhcmVudHNxAH4Aq3hxAH4AynNxAH4AwwF1cQB+AKYAAAAAcHNxAH4AwwF1cQB+AKYAAAAAcHNxAH4AwwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AMl0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AMlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXB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AAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAljb20ucGFja3RzcQB+AgJ0AA5jb20ucGFja3QuYWtrYXNxAH4CAnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmKh+0R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABPL2hvbWUvc2FsbWEvd29ya3NwYWNlL0Fra2EgQ291cnNlL3BsYXlpbmctd2l0aC1hY3RvcnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHrm1OL0Ciz/R9tfD+6uTAgSJhhw
+external apis:
+0 items
+source infos:
+4 items
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/ActorCreation.scala -> 
+AAAAAAAAAAA=
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Monitoring.scala -> 
+AAAAAAAAAAA=
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/Supervision.scala -> 
+AAAAAAAAAAA=
+/home/salma/workspace/Akka Course/playing-with-actors/src/main/scala/TalkToActor.scala -> 
+AAAAAAAAAAA=
+compilations:
+35 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTlrlW1l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTlsQecF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTlsTbV11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTlsb9Tp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTluKXbl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmCh31F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmC3gSl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmC4Ugd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmC42Zx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmC6CrJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmC6whN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmDDAkp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmKh+0R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmK3fAd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmK5VER1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmK63Y91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmK7odt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmK8Wip1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmK9fWt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmK+HO91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmK+5sd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmK/ZSl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmK/vEN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmLAvdR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmLBMXR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmLBb5h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmLC2hF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmLDVB91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmLJXSB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmLKXQt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmLKvMR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmLa+TZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmMiWPd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmMi7WR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTmMjeQZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NhbG1hL3dvcmtzcGFjZS9Ba2thIENvdXJzZS9wbGF5aW5nLXdpdGgtYWN0b3JzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

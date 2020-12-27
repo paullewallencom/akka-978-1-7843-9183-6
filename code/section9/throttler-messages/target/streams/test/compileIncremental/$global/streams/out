@@ -1,0 +1,42 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/salma/learning Akka/Section 8/code /throttler-messages/src/test/scala/akka/pattern/throttle/TimerBasedThrottlerSpec.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/salma/learning Akka/Section 8/code /throttler-messages/src/test/scala/akka/pattern/throttle/TimerBasedThrottlerSpec.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/salma/learning Akka/Section 8/code /throttler-messages/src/test/scala/akka/pattern/throttle/TimerBasedThrottlerSpec.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/salma/learning Akka/Section 8/code /throttler-messages/target/scala-2.11/test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 517b0a92, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/salma/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/salma/learning Akka/Section 8/code /throttler-messages/target/scala-2.11/test-classes:/home/salma/learning Akka/Section 8/code /throttler-messages/target/scala-2.11/classes:/home/salma/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar:/home/salma/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar:/home/salma/.ivy2/cache/com.typesafe.akka/akka-testkit_2.11/jars/akka-testkit_2.11-2.3.11.jar:/home/salma/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.1.jar:/home/salma/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.2.jar:/home/salma/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar[0m
+[0m[[33mwarn[0m] [0mthere was one deprecation warning; re-run with -deprecation for details[0m
+[0m[[33mwarn[0m] [0mthere were 12 feature warnings; re-run with -feature for details[0m
+[0m[[33mwarn[0m] [0mtwo warnings found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 11.22574881 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/salma/learning Akka/Section 8/code /throttler-messages/src/test/scala/akka/pattern/throttle/TimerBasedThrottlerSpec.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/salma/learning Akka/Section 8/code /throttler-messages/src/test/scala/akka/pattern/throttle/TimerBasedThrottlerSpec.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/salma/learning Akka/Section 8/code /throttler-messages/src/test/scala/akka/pattern/throttle/TimerBasedThrottlerSpec.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/salma/learning Akka/Section 8/code /throttler-messages/src/test/scala/akka/pattern/throttle/TimerBasedThrottlerSpec.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/salma/learning Akka/Section 8/code /throttler-messages/src/test/scala/akka/pattern/throttle/TimerBasedThrottlerSpec.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	convertToStringMustWrapper, convertToStringCanWrapper, system, convertToWordSpecStringWrapper, context, convertNumericToPlusOrMinusWrapper, convertToAnyMustWrapper, convertToEqualizer, self, subjectWithAfterWordRegistrationFunction, convertToRegexWrapper, unconstrainedEquality, convertToStringShouldWrapper, convertSymbolToHavePropertyMatcherGenerator, subjectRegistrationFunction.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

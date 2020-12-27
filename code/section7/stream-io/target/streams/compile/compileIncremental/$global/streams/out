@@ -1,0 +1,38 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.6[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 7f30361e, interfacing (CompilerInterface) with Scala compiler version 2.11.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/classes:/Users/salmakhater/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/target/scala-2.11/classes:/Users/salmakhater/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar:/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar:/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar:/Users/salmakhater/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.0.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 4.834087033 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/salmakhater/Documents/Learning Akka/Course-Version2/section7/code/stream-io/src/main/scala/ReadStreamFromFile.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	flowMaterializer, actorSystem.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

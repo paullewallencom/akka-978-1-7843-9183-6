@@ -1,0 +1,3 @@
+set scalacOptions in ThisBuild ++= Seq("-unchecked", "-deprecation")
+test:compile
+test

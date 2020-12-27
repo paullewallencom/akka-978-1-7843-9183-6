@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mApiSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe Server[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return Ok response when get all tweets[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return created response when create new tweet[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return No Content response when delete a tweet[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return Ok response when get a tweet[0m[0m

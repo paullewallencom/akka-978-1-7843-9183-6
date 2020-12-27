@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="rest-api_2.11"
+		revision="1.0"
+		conf="test"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20151226183515"/>
+	<dependencies>
+		<module organisation="org.scalatest" name="scalatest_2.11">
+			<revision name="2.2.1" status="release" pubdate="20151030231812" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="25">
+				<license name="the Apache License, ASL Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="4971" time="0" location="/Users/salmakhater/.ivy2/cache/org.scalatest/scalatest_2.11/ivy-2.2.1.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.1/scalatest_2.11-2.2.1.pom"/>
+				<caller organisation="default" name="rest-api_2.11" conf="test, compile, runtime" rev="2.2.1" rev-constraint-default="2.2.1" rev-constraint-dynamic="2.2.1" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="scalatest_2.11" type="bundle" ext="jar" status="no" details="" size="7144233" time="0" location="/Users/salmakhater/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.1.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.1/scalatest_2.11-2.2.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.typesafe.akka" name="akka-http-testkit-experimental_2.11">
+			<revision name="1.0" status="release" pubdate="20150715130051" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="23">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="3216" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-http-testkit-experimental_2.11/ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-testkit-experimental_2.11/1.0/akka-http-testkit-experimental_2.11-1.0.pom"/>
+				<caller organisation="default" name="rest-api_2.11" conf="test, compile, runtime" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="akka-http-testkit-experimental_2.11" type="jar" ext="jar" status="no" details="" size="57204" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-http-testkit-experimental_2.11/jars/akka-http-testkit-experimental_2.11-1.0.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-testkit-experimental_2.11/1.0/akka-http-testkit-experimental_2.11-1.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.reactivemongo" name="reactivemongo_2.11">
+			<revision name="0.11.7" status="release" pubdate="20150904112319" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://reactivemongo.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="10">
+				<license name="Apache 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="3775" time="0" location="/Users/salmakhater/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/ivy-0.11.7.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.11/0.11.7/reactivemongo_2.11-0.11.7.pom"/>
+				<caller organisation="default" name="rest-api_2.11" conf="test, compile, runtime" rev="0.11.7" rev-constraint-default="0.11.7" rev-constraint-dynamic="0.11.7" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="reactivemongo_2.11" type="jar" ext="jar" status="no" details="" size="2432279" time="0" location="/Users/salmakhater/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.11.7.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.11/0.11.7/reactivemongo_2.11-0.11.7.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.logging.log4j" name="log4j-core">
+			<revision name="2.0.2" status="release" pubdate="20140817083103" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="22">
+				<metadata-artifact status="no" details="" size="24051" time="0" location="/Users/salmakhater/.ivy2/cache/org.apache.logging.log4j/log4j-core/ivy-2.0.2.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0.2/log4j-core-2.0.2.pom"/>
+				<caller organisation="org.reactivemongo" name="reactivemongo_2.11" conf="default, compile, runtime, master" rev="2.0.2" rev-constraint-default="2.0.2" rev-constraint-dynamic="2.0.2" callerrev="0.11.7"/>
+				<artifacts>
+					<artifact name="log4j-core" type="jar" ext="jar" status="no" details="" size="783469" time="0" location="/Users/salmakhater/.ivy2/cache/org.apache.logging.log4j/log4j-core/jars/log4j-core-2.0.2.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0.2/log4j-core-2.0.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.logging.log4j" name="log4j-api">
+			<revision name="2.0.2" status="release" pubdate="20140817082403" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="21">
+				<metadata-artifact status="no" details="" size="25669" time="0" location="/Users/salmakhater/.ivy2/cache/org.apache.logging.log4j/log4j-api/ivy-2.0.2.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0.2/log4j-api-2.0.2.pom"/>
+				<caller organisation="org.reactivemongo" name="reactivemongo_2.11" conf="default, compile, runtime, master" rev="2.0.2" rev-constraint-default="2.0.2" rev-constraint-dynamic="2.0.2" callerrev="0.11.7"/>
+				<artifacts>
+					<artifact name="log4j-api" type="jar" ext="jar" status="no" details="" size="122755" time="0" location="/Users/salmakhater/.ivy2/cache/org.apache.logging.log4j/log4j-api/jars/log4j-api-2.0.2.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0.2/log4j-api-2.0.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="commons-codec" name="commons-codec">
+			<revision name="1.10" status="release" pubdate="20141106161500" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://commons.apache.org/proper/commons-codec/" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="20">
+				<metadata-artifact status="no" details="" size="10380" time="0" location="/Users/salmakhater/.ivy2/cache/commons-codec/commons-codec/ivy-1.10.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/commons-codec/commons-codec/1.10/commons-codec-1.10.pom"/>
+				<caller organisation="org.reactivemongo" name="reactivemongo_2.11" conf="default, compile, runtime, master" rev="1.10" rev-constraint-default="1.10" rev-constraint-dynamic="1.10" callerrev="0.11.7"/>
+				<artifacts>
+					<artifact name="commons-codec" type="jar" ext="jar" status="no" details="" size="284184" time="0" location="/Users/salmakhater/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.10.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/commons-codec/commons-codec/1.10/commons-codec-1.10.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.typesafe.play" name="play-iteratees_2.11">
+			<revision name="2.3.5" status="release" pubdate="20150421180812" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="18">
+				<metadata-artifact status="no" details="" size="3169" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/ivy-2.3.5.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/releases/com/typesafe/play/play-iteratees_2.11/2.3.5/play-iteratees_2.11-2.3.5.pom"/>
+				<caller organisation="org.reactivemongo" name="reactivemongo_2.11" conf="default, compile, runtime, master" rev="2.3.5" rev-constraint-default="2.3.5" rev-constraint-dynamic="2.3.5" callerrev="0.11.7"/>
+				<artifacts>
+					<artifact name="play-iteratees_2.11" type="jar" ext="jar" status="no" details="" size="731003" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.3.5.jar">
+						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/releases/com/typesafe/play/play-iteratees_2.11/2.3.5/play-iteratees_2.11-2.3.5.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-stm" name="scala-stm_2.11">
+			<revision name="0.7" status="release" pubdate="20140418064400" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://nbronson.github.com/scala-stm/" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="19">
+				<license name="BSD" url="https://github.com/nbronson/scala-stm/blob/master/LICENSE.txt"/>
+				<metadata-artifact status="no" details="" size="2537" time="0" location="/Users/salmakhater/.ivy2/cache/org.scala-stm/scala-stm_2.11/ivy-0.7.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7.pom"/>
+				<caller organisation="com.typesafe.play" name="play-iteratees_2.11" conf="compile, runtime" rev="0.7" rev-constraint-default="0.7" rev-constraint-dynamic="0.7" callerrev="2.3.5"/>
+				<artifacts>
+					<artifact name="scala-stm_2.11" type="jar" ext="jar" status="no" details="" size="630306" time="0" location="/Users/salmakhater/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="io.netty" name="netty">
+			<revision name="3.10.4.Final" status="release" pubdate="20150630152800" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://netty.io/" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="17">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="7071" time="0" location="/Users/salmakhater/.ivy2/cache/io.netty/netty/ivy-3.10.4.Final.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/io/netty/netty/3.10.4.Final/netty-3.10.4.Final.pom"/>
+				<caller organisation="org.reactivemongo" name="reactivemongo_2.11" conf="default, compile, runtime, master" rev="3.10.4.Final" rev-constraint-default="3.10.4.Final" rev-constraint-dynamic="3.10.4.Final" callerrev="0.11.7"/>
+				<artifacts>
+					<artifact name="netty" type="bundle" ext="jar" status="no" details="" size="1330395" time="0" location="/Users/salmakhater/.ivy2/cache/io.netty/netty/bundles/netty-3.10.4.Final.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/io/netty/netty/3.10.4.Final/netty-3.10.4.Final.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.reactivemongo" name="reactivemongo-bson-macros_2.11">
+			<revision name="0.11.7" status="release" pubdate="20150904112351" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://reactivemongo.org" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="11">
+				<license name="Apache 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2973" time="0" location="/Users/salmakhater/.ivy2/cache/org.reactivemongo/reactivemongo-bson-macros_2.11/ivy-0.11.7.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.11/0.11.7/reactivemongo-bson-macros_2.11-0.11.7.pom"/>
+				<caller organisation="org.reactivemongo" name="reactivemongo_2.11" conf="default, compile, runtime, master" rev="0.11.7" rev-constraint-default="0.11.7" rev-constraint-dynamic="0.11.7" callerrev="0.11.7"/>
+				<artifacts>
+					<artifact name="reactivemongo-bson-macros_2.11" type="jar" ext="jar" status="no" details="" size="149391" time="0" location="/Users/salmakhater/.ivy2/cache/org.reactivemongo/reactivemongo-bson-macros_2.11/jars/reactivemongo-bson-macros_2.11-0.11.7.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.11/0.11.7/reactivemongo-bson-macros_2.11-0.11.7.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.reactivemongo" name="reactivemongo-bson_2.11">
+			<revision name="0.11.7" status="release" pubdate="20150904112241" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://reactivemongo.org" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="16">
+				<license name="Apache 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2656" time="0" location="/Users/salmakhater/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/ivy-0.11.7.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.11/0.11.7/reactivemongo-bson_2.11-0.11.7.pom"/>
+				<caller organisation="org.reactivemongo" name="reactivemongo-bson-macros_2.11" conf="compile, runtime" rev="0.11.7" rev-constraint-default="0.11.7" rev-constraint-dynamic="0.11.7" callerrev="0.11.7"/>
+				<artifacts>
+					<artifact name="reactivemongo-bson_2.11" type="jar" ext="jar" status="no" details="" size="376737" time="0" location="/Users/salmakhater/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.11.7.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.11/0.11.7/reactivemongo-bson_2.11-0.11.7.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-compiler">
+			<revision name="2.11.7" status="release" pubdate="20150622221819" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="12">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="3103" time="0" location="/Users/salmakhater/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.11.7.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.7/scala-compiler-2.11.7.pom"/>
+				<caller organisation="org.reactivemongo" name="reactivemongo-bson-macros_2.11" conf="compile, runtime" rev="2.11.7" rev-constraint-default="2.11.7" rev-constraint-dynamic="2.11.7" callerrev="0.11.7"/>
+				<artifacts>
+					<artifact name="scala-compiler" type="jar" ext="jar" status="no" details="" size="15244851" time="0" location="/Users/salmakhater/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.7.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.7/scala-compiler-2.11.7.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang.modules" name="scala-parser-combinators_2.11">
+			<revision name="1.0.4" status="release" pubdate="20150430160747" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="15">
+				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
+				<metadata-artifact status="no" details="" size="2785" time="0" location="/Users/salmakhater/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/ivy-1.0.4.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.pom"/>
+				<caller organisation="org.scala-lang" name="scala-compiler" conf="compile, runtime" rev="1.0.4" rev-constraint-default="1.0.4" rev-constraint-dynamic="1.0.4" callerrev="2.11.7"/>
+				<artifacts>
+					<artifact name="scala-parser-combinators_2.11" type="bundle" ext="jar" status="no" details="" size="423753" time="0" location="/Users/salmakhater/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang.modules" name="scala-xml_2.11">
+			<revision name="1.0.4" status="release" pubdate="20150430155302" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master, master(compile)" position="14">
+				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
+				<metadata-artifact status="no" details="" size="2987" time="0" location="/Users/salmakhater/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/ivy-1.0.4.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4.pom"/>
+				<caller organisation="org.scalatest" name="scalatest_2.11" conf="default, compile, runtime, master" rev="1.0.2" rev-constraint-default="1.0.2" rev-constraint-dynamic="1.0.2" callerrev="2.2.1"/>
+				<caller organisation="org.scala-lang" name="scala-compiler" conf="compile, runtime" rev="1.0.4" rev-constraint-default="1.0.4" rev-constraint-dynamic="1.0.4" callerrev="2.11.7"/>
+				<artifacts>
+					<artifact name="scala-xml_2.11" type="bundle" ext="jar" status="no" details="" size="647891" time="0" location="/Users/salmakhater/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.4.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+			<revision name="1.0.2" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master, master(*)" position="-1">
+				<evicted-by rev="1.0.4"/>
+				<caller organisation="org.scalatest" name="scalatest_2.11" conf="default, compile, runtime, master" rev="1.0.2" rev-constraint-default="1.0.2" rev-constraint-dynamic="1.0.2" callerrev="2.2.1"/>
+				<caller organisation="org.scala-lang" name="scala-compiler" conf="compile, runtime" rev="1.0.4" rev-constraint-default="1.0.4" rev-constraint-dynamic="1.0.4" callerrev="2.11.7"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-reflect">
+			<revision name="2.11.7" status="release" pubdate="20150622221746" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.7/" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master, master(compile)" position="13">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2819" time="0" location="/Users/salmakhater/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.11.7.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7.pom"/>
+				<caller organisation="org.scalatest" name="scalatest_2.11" conf="default, compile, runtime, master" rev="2.11.2" rev-constraint-default="2.11.2" rev-constraint-dynamic="2.11.2" callerrev="2.2.1"/>
+				<caller organisation="org.scala-lang" name="scala-compiler" conf="compile, runtime" rev="2.11.7" rev-constraint-default="2.11.7" rev-constraint-dynamic="2.11.7" callerrev="2.11.7"/>
+				<artifacts>
+					<artifact name="scala-reflect" type="jar" ext="jar" status="no" details="" size="4576443" time="0" location="/Users/salmakhater/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+			<revision name="2.11.2" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master, master(*)" position="-1">
+				<evicted-by rev="2.11.7"/>
+				<caller organisation="org.scalatest" name="scalatest_2.11" conf="default, compile, runtime, master" rev="2.11.2" rev-constraint-default="2.11.2" rev-constraint-dynamic="2.11.2" callerrev="2.2.1"/>
+				<caller organisation="org.scala-lang" name="scala-compiler" conf="compile, runtime" rev="2.11.7" rev-constraint-default="2.11.7" rev-constraint-dynamic="2.11.7" callerrev="2.11.7"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.typesafe.akka" name="akka-http-spray-json-experimental_2.11">
+			<revision name="1.0" status="release" pubdate="20150715130044" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="8">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2881" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-http-spray-json-experimental_2.11/ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-spray-json-experimental_2.11/1.0/akka-http-spray-json-experimental_2.11-1.0.pom"/>
+				<caller organisation="default" name="rest-api_2.11" conf="test, compile, runtime" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="akka-http-spray-json-experimental_2.11" type="jar" ext="jar" status="no" details="" size="9883" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-http-spray-json-experimental_2.11/jars/akka-http-spray-json-experimental_2.11-1.0.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-spray-json-experimental_2.11/1.0/akka-http-spray-json-experimental_2.11-1.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="io.spray" name="spray-json_2.11">
+			<revision name="1.3.1" status="release" pubdate="20141028144337" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/spray/spray-json" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="9">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="2931" time="0" location="/Users/salmakhater/.ivy2/cache/io.spray/spray-json_2.11/ivy-1.3.1.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/io/spray/spray-json_2.11/1.3.1/spray-json_2.11-1.3.1.pom"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-spray-json-experimental_2.11" conf="default, compile, runtime, master" rev="1.3.1" rev-constraint-default="1.3.1" rev-constraint-dynamic="1.3.1" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="spray-json_2.11" type="bundle" ext="jar" status="no" details="" size="280819" time="0" location="/Users/salmakhater/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/io/spray/spray-json_2.11/1.3.1/spray-json_2.11-1.3.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.typesafe.akka" name="akka-http-experimental_2.11">
+			<revision name="1.0" status="release" pubdate="20150715130013" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" downloaded="false" searched="false" default="false" conf="default, master(*), compile, runtime(*), runtime, default(compile), compile(*), master" position="7">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2717" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-experimental_2.11/1.0/akka-http-experimental_2.11-1.0.pom"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-spray-json-experimental_2.11" conf="default, compile, runtime, master" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-testkit-experimental_2.11" conf="default, compile, runtime, master" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
+				<caller organisation="default" name="rest-api_2.11" conf="test, compile, runtime" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="akka-http-experimental_2.11" type="jar" ext="jar" status="no" details="" size="2182925" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-1.0.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-experimental_2.11/1.0/akka-http-experimental_2.11-1.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.typesafe.akka" name="akka-http-core-experimental_2.11">
+			<revision name="1.0" status="release" pubdate="20150715125936" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" downloaded="false" searched="false" default="false" conf="default, master(*), compile, runtime(*), runtime, default(compile), compile(*), master" position="5">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="3486" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-core-experimental_2.11/1.0/akka-http-core-experimental_2.11-1.0.pom"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-experimental_2.11" conf="default, compile, runtime, master" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
+				<caller organisation="default" name="rest-api_2.11" conf="test, compile, runtime" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="akka-http-core-experimental_2.11" type="jar" ext="jar" status="no" details="" size="2822409" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-http-core-experimental_2.11/1.0/akka-http-core-experimental_2.11-1.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.typesafe.akka" name="akka-testkit_2.11">
+			<revision name="2.3.12" status="release" pubdate="20150709075942" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="24">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2892" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-testkit_2.11/ivy-2.3.12.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.12/akka-testkit_2.11-2.3.12.pom"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-testkit-experimental_2.11" conf="default, compile, runtime, master" rev="2.3.12" rev-constraint-default="2.3.12" rev-constraint-dynamic="2.3.12" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="akka-testkit_2.11" type="jar" ext="jar" status="no" details="" size="253032" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-testkit_2.11/jars/akka-testkit_2.11-2.3.12.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.12/akka-testkit_2.11-2.3.12.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.typesafe.akka" name="akka-parsing-experimental_2.11">
+			<revision name="1.0" status="release" pubdate="20150715125813" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="6">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2711" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-parsing-experimental_2.11/ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-parsing-experimental_2.11/1.0/akka-parsing-experimental_2.11-1.0.pom"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-core-experimental_2.11" conf="default, compile, runtime, master" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="akka-parsing-experimental_2.11" type="jar" ext="jar" status="no" details="" size="718520" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-parsing-experimental_2.11/jars/akka-parsing-experimental_2.11-1.0.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-parsing-experimental_2.11/1.0/akka-parsing-experimental_2.11-1.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.typesafe.akka" name="akka-stream-experimental_2.11">
+			<revision name="1.0" status="release" pubdate="20151030113951" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" downloaded="false" searched="false" default="false" conf="default, master(*), compile, runtime(*), runtime, default(compile), compile(*), master" position="1">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="3692" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/typesafe/akka/akka-stream-experimental_2.11/1.0/akka-stream-experimental_2.11-1.0.pom"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-core-experimental_2.11" conf="default, compile, runtime, master" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
+				<caller organisation="default" name="rest-api_2.11" conf="test, compile, runtime" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="akka-stream-experimental_2.11" type="jar" ext="jar" status="no" details="" size="4988017" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/com/typesafe/akka/akka-stream-experimental_2.11/1.0/akka-stream-experimental_2.11-1.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.reactivestreams" name="reactive-streams">
+			<revision name="1.0.0" status="release" pubdate="20151030113953" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.reactive-streams.org/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="4">
+				<license name="CC0" url="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<metadata-artifact status="no" details="" size="2523" time="0" location="/Users/salmakhater/.ivy2/cache/org.reactivestreams/reactive-streams/ivy-1.0.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/reactivestreams/reactive-streams/1.0.0/reactive-streams-1.0.0.pom"/>
+				<caller organisation="com.typesafe.akka" name="akka-stream-experimental_2.11" conf="default, compile, runtime, master" rev="1.0.0" rev-constraint-default="1.0.0" rev-constraint-dynamic="1.0.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="reactive-streams" type="jar" ext="jar" status="no" details="" size="2042" time="0" location="/Users/salmakhater/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.0.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/reactivestreams/reactive-streams/1.0.0/reactive-streams-1.0.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.typesafe.akka" name="akka-actor_2.11">
+			<revision name="2.3.12" status="release" pubdate="20150709075835" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), master(compile), runtime, compile(*), master" position="2">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2655" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/ivy-2.3.12.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.12/akka-actor_2.11-2.3.12.pom"/>
+				<caller organisation="com.typesafe.akka" name="akka-testkit_2.11" conf="compile, runtime" rev="2.3.12" rev-constraint-default="2.3.12" rev-constraint-dynamic="2.3.12" callerrev="2.3.12"/>
+				<caller organisation="com.typesafe.akka" name="akka-stream-experimental_2.11" conf="default, compile, runtime, master" rev="2.3.12" rev-constraint-default="2.3.12" rev-constraint-dynamic="2.3.12" callerrev="1.0"/>
+				<caller organisation="org.reactivemongo" name="reactivemongo_2.11" conf="default, compile, runtime, master" rev="2.3.6" rev-constraint-default="2.3.6" rev-constraint-dynamic="2.3.6" callerrev="0.11.7"/>
+				<artifacts>
+					<artifact name="akka-actor_2.11" type="jar" ext="jar" status="no" details="" size="2792073" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.12/akka-actor_2.11-2.3.12.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+			<revision name="2.3.6" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="-1">
+				<evicted-by rev="2.3.12"/>
+				<caller organisation="org.reactivemongo" name="reactivemongo_2.11" conf="default, compile, runtime, master" rev="2.3.6" rev-constraint-default="2.3.6" rev-constraint-dynamic="2.3.6" callerrev="0.11.7"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.typesafe" name="config">
+			<revision name="1.2.1" status="release" pubdate="20140502165416" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/typesafehub/config" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="3">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2734" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe/config/ivy-1.2.1.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.pom"/>
+				<caller organisation="com.typesafe.akka" name="akka-actor_2.11" conf="compile, runtime" rev="1.2.1" rev-constraint-default="1.2.1" rev-constraint-dynamic="1.2.1" callerrev="2.3.12"/>
+				<caller organisation="com.typesafe.play" name="play-iteratees_2.11" conf="compile, runtime" rev="1.2.1" rev-constraint-default="1.2.1" rev-constraint-dynamic="1.2.1" callerrev="2.3.5"/>
+				<artifacts>
+					<artifact name="config" type="bundle" ext="jar" status="no" details="" size="219554" time="0" location="/Users/salmakhater/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.11.7" status="release" pubdate="20150622221702" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.7/" downloaded="false" searched="false" default="false" conf="default, master(*), compile, runtime(*), runtime, default(compile), compile(*), master, master(compile)" position="0">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2653" time="0" location="/Users/salmakhater/.ivy2/cache/org.scala-lang/scala-library/ivy-2.11.7.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.pom"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-experimental_2.11" conf="default, compile, runtime, master" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="1.0"/>
+				<caller organisation="org.scalatest" name="scalatest_2.11" conf="default, compile, runtime, master" rev="2.11.2" rev-constraint-default="2.11.2" rev-constraint-dynamic="2.11.2" callerrev="2.2.1"/>
+				<caller organisation="com.typesafe.akka" name="akka-stream-experimental_2.11" conf="default, compile, runtime, master" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="1.0"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-testkit-experimental_2.11" conf="default, compile, runtime, master" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="1.0"/>
+				<caller organisation="default" name="rest-api_2.11" conf="test, compile, runtime" rev="2.11.7" rev-constraint-default="2.11.7" rev-constraint-dynamic="2.11.7" callerrev="1.0"/>
+				<caller organisation="org.reactivemongo" name="reactivemongo_2.11" conf="default, compile, runtime, master" rev="2.11.7" rev-constraint-default="2.11.7" rev-constraint-dynamic="2.11.7" callerrev="0.11.7"/>
+				<caller organisation="org.scala-lang.modules" name="scala-xml_2.11" conf="compile, runtime" rev="2.11.4" rev-constraint-default="2.11.4" rev-constraint-dynamic="2.11.4" callerrev="1.0.4"/>
+				<caller organisation="com.typesafe.play" name="play-iteratees_2.11" conf="compile, runtime" rev="2.11.1" rev-constraint-default="2.11.1" rev-constraint-dynamic="2.11.1" callerrev="2.3.5"/>
+				<caller organisation="org.scala-stm" name="scala-stm_2.11" conf="compile, runtime" rev="2.11.0" rev-constraint-default="2.11.0" rev-constraint-dynamic="2.11.0" callerrev="0.7"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-spray-json-experimental_2.11" conf="default, compile, runtime, master" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="1.0"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-core-experimental_2.11" conf="default, compile, runtime, master" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="1.0"/>
+				<caller organisation="com.typesafe.akka" name="akka-testkit_2.11" conf="compile, runtime" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="2.3.12"/>
+				<caller organisation="org.reactivemongo" name="reactivemongo-bson-macros_2.11" conf="compile, runtime" rev="2.11.7" rev-constraint-default="2.11.7" rev-constraint-dynamic="2.11.7" callerrev="0.11.7"/>
+				<caller organisation="org.scala-lang" name="scala-reflect" conf="compile, runtime" rev="2.11.7" rev-constraint-default="2.11.7" rev-constraint-dynamic="2.11.7" callerrev="2.11.7"/>
+				<caller organisation="org.scala-lang.modules" name="scala-parser-combinators_2.11" conf="compile, runtime" rev="2.11.6" rev-constraint-default="2.11.6" rev-constraint-dynamic="2.11.6" callerrev="1.0.4"/>
+				<caller organisation="com.typesafe.akka" name="akka-parsing-experimental_2.11" conf="compile, runtime" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="1.0"/>
+				<caller organisation="io.spray" name="spray-json_2.11" conf="compile, runtime" rev="2.11.2" rev-constraint-default="2.11.2" rev-constraint-dynamic="2.11.2" callerrev="1.3.1"/>
+				<caller organisation="com.typesafe.akka" name="akka-actor_2.11" conf="compile, runtime" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="2.3.12"/>
+				<caller organisation="org.scala-lang" name="scala-compiler" conf="compile, runtime" rev="2.11.7" rev-constraint-default="2.11.7" rev-constraint-dynamic="2.11.7" callerrev="2.11.7"/>
+				<caller organisation="org.reactivemongo" name="reactivemongo-bson_2.11" conf="compile, runtime" rev="2.11.7" rev-constraint-default="2.11.7" rev-constraint-dynamic="2.11.7" callerrev="0.11.7"/>
+				<artifacts>
+					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="5745606" time="0" location="/Users/salmakhater/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+			<revision name="2.11.0" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="compile, runtime(*), master(compile), runtime, compile(*)" position="-1">
+				<evicted-by rev="2.11.7"/>
+				<caller organisation="org.scala-stm" name="scala-stm_2.11" conf="compile, runtime" rev="2.11.0" rev-constraint-default="2.11.0" rev-constraint-dynamic="2.11.0" callerrev="0.7"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+			<revision name="2.11.1" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="master(*), compile, runtime(*), runtime, compile(*), master, master(compile)" position="-1">
+				<evicted-by rev="2.11.7"/>
+				<caller organisation="com.typesafe.play" name="play-iteratees_2.11" conf="compile, runtime" rev="2.11.1" rev-constraint-default="2.11.1" rev-constraint-dynamic="2.11.1" callerrev="2.3.5"/>
+				<caller organisation="org.scala-stm" name="scala-stm_2.11" conf="compile, runtime" rev="2.11.0" rev-constraint-default="2.11.0" rev-constraint-dynamic="2.11.0" callerrev="0.7"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+			<revision name="2.11.6" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="-1">
+				<evicted-by rev="2.11.7"/>
+				<caller organisation="org.scala-lang.modules" name="scala-parser-combinators_2.11" conf="compile, runtime" rev="2.11.6" rev-constraint-default="2.11.6" rev-constraint-dynamic="2.11.6" callerrev="1.0.4"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+			<revision name="2.11.4" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="-1">
+				<evicted-by rev="2.11.7"/>
+				<caller organisation="org.scala-lang.modules" name="scala-xml_2.11" conf="compile, runtime" rev="2.11.4" rev-constraint-default="2.11.4" rev-constraint-dynamic="2.11.4" callerrev="1.0.4"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+			<revision name="2.11.2" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="master(*), compile, runtime(*), master(compile), runtime, compile(*), master" position="-1">
+				<evicted-by rev="2.11.7"/>
+				<caller organisation="org.scalatest" name="scalatest_2.11" conf="default, compile, runtime, master" rev="2.11.2" rev-constraint-default="2.11.2" rev-constraint-dynamic="2.11.2" callerrev="2.2.1"/>
+				<caller organisation="io.spray" name="spray-json_2.11" conf="compile, runtime" rev="2.11.2" rev-constraint-default="2.11.2" rev-constraint-dynamic="2.11.2" callerrev="1.3.1"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+			<revision name="2.11.5" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="master(*), compile, runtime(*), master(compile), runtime, compile(*), master" position="-1">
+				<evicted-by rev="2.11.7"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-spray-json-experimental_2.11" conf="default, compile, runtime, master" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="1.0"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-core-experimental_2.11" conf="default, compile, runtime, master" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="1.0"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-experimental_2.11" conf="default, compile, runtime, master" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="1.0"/>
+				<caller organisation="com.typesafe.akka" name="akka-testkit_2.11" conf="compile, runtime" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="2.3.12"/>
+				<caller organisation="com.typesafe.akka" name="akka-stream-experimental_2.11" conf="default, compile, runtime, master" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="1.0"/>
+				<caller organisation="com.typesafe.akka" name="akka-http-testkit-experimental_2.11" conf="default, compile, runtime, master" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="1.0"/>
+				<caller organisation="com.typesafe.akka" name="akka-parsing-experimental_2.11" conf="compile, runtime" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="1.0"/>
+				<caller organisation="io.spray" name="spray-json_2.11" conf="compile, runtime" rev="2.11.2" rev-constraint-default="2.11.2" rev-constraint-dynamic="2.11.2" callerrev="1.3.1"/>
+				<caller organisation="com.typesafe.akka" name="akka-actor_2.11" conf="compile, runtime" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="2.3.12"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

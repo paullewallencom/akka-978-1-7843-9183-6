@@ -1,0 +1,42 @@
+[0m[[0minfo[0m] [0m[32mTimerBasedThrottlerSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA throttler[0m[0m
+[0m[[0minfo[0m] [0m[32m- must must pass the ScalaDoc class documentation example prgoram[0m[0m
+[0m[[0minfo[0m] [0m[31m- must keep messages until a target is set *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.AssertionError: assertion failed: expected 1, found Queue(1)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.assert(Predef.scala:165)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.expectMsg_internal(TestKit.scala:339)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.expectMsg(TestKit.scala:315)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKit.expectMsg(TestKit.scala:718)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.pattern.throttle.TimerBasedThrottlerSpec$$anonfun$1$$anonfun$apply$mcV$sp$2$$anonfun$apply$mcV$sp$9.apply(TimerBasedThrottlerSpec.scala:66)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.pattern.throttle.TimerBasedThrottlerSpec$$anonfun$1$$anonfun$apply$mcV$sp$2$$anonfun$apply$mcV$sp$9.apply(TimerBasedThrottlerSpec.scala:65)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.within(TestKit.scala:296)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKit.within(TestKit.scala:718)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.within(TestKit.scala:310)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKit.within(TestKit.scala:718)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- must respect the rate (3 msg/s) *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.AssertionError: assertion failed: expected 1, found Queue(2)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.assert(Predef.scala:165)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.expectMsg_internal(TestKit.scala:339)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.expectMsg(TestKit.scala:315)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKit.expectMsg(TestKit.scala:718)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.pattern.throttle.TimerBasedThrottlerSpec$$anonfun$1$$anonfun$apply$mcV$sp$3$$anonfun$apply$mcV$sp$4.apply$mcV$sp(TimerBasedThrottlerSpec.scala:87)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.pattern.throttle.TimerBasedThrottlerSpec$$anonfun$1$$anonfun$apply$mcV$sp$3$$anonfun$apply$mcV$sp$4.apply(TimerBasedThrottlerSpec.scala:86)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.pattern.throttle.TimerBasedThrottlerSpec$$anonfun$1$$anonfun$apply$mcV$sp$3$$anonfun$apply$mcV$sp$4.apply(TimerBasedThrottlerSpec.scala:86)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.within(TestKit.scala:296)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKit.within(TestKit.scala:718)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.within(TestKit.scala:310)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- must respect the rate (4 msg/s) *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.AssertionError: assertion failed: expected 1, found Queue(3)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.assert(Predef.scala:165)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.expectMsg_internal(TestKit.scala:339)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.expectMsg(TestKit.scala:315)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKit.expectMsg(TestKit.scala:718)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.pattern.throttle.TimerBasedThrottlerSpec$$anonfun$1$$anonfun$apply$mcV$sp$6$$anonfun$apply$mcV$sp$7.apply$mcV$sp(TimerBasedThrottlerSpec.scala:117)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.pattern.throttle.TimerBasedThrottlerSpec$$anonfun$1$$anonfun$apply$mcV$sp$6$$anonfun$apply$mcV$sp$7.apply(TimerBasedThrottlerSpec.scala:116)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.pattern.throttle.TimerBasedThrottlerSpec$$anonfun$1$$anonfun$apply$mcV$sp$6$$anonfun$apply$mcV$sp$7.apply(TimerBasedThrottlerSpec.scala:116)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.within(TestKit.scala:296)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKit.within(TestKit.scala:718)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.within(TestKit.scala:310)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

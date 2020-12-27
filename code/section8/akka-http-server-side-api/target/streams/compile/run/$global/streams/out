@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mRunning com.packt.akka.HighLevel [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/salmakhater/Documents/Learning Akka/Course-Version2/section8/code/akka-http-server-side-api/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/salmakhater/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/salmakhater/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/salmakhater/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-parsing-experimental_2.11/jars/akka-parsing-experimental_2.11-1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/salmakhater/.ivy2/cache/com.typesafe.akka/akka-http-spray-json-experimental_2.11/jars/akka-http-spray-json-experimental_2.11-1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/salmakhater/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread my-system-akka.io.pinned-dispatcher-5 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread my-system-akka.io.pinned-dispatcher-5 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread my-system-akka.actor.default-dispatcher-25 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread my-system-akka.actor.default-dispatcher-25 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

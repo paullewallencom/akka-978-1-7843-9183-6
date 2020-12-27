@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mWorkerSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mWorker[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32m- should still work if one dies[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with Futures[0m[0m

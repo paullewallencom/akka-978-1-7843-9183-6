@@ -1,0 +1,6 @@
+compile
+reload
+compile
+run
+console
+run

@@ -1,0 +1,6 @@
+compile
+run
+console
+run
+implicit val timeout = Timeout(5 seconds)
+run
